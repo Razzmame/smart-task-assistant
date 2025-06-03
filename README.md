@@ -1,4 +1,4 @@
-# RedSYS Project : "Smart Task Assistant"
+# Smart Task Assistant
 
 Una pequeña aplicación web que actúa como asistente de tareas automatizadas, con componentes de IA y automatización web (Selenium), que expone una API REST y permite realizar tareas como:
 
